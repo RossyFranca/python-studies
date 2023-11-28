@@ -1,0 +1,7 @@
+# requirements.txt
+
+# NumPy
+numpy>=1.21.4
+
+# Pandas
+pandas>=1.3.3
