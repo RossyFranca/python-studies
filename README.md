@@ -49,3 +49,9 @@ min: O valor mínimo na coluna. min é 25.0, indicando que a menor idade na colu
 75% (terceiro quartil): O valor abaixo do qual 75% dos dados estão. 75% é 32.5, ou seja, 75% das idades são menores ou iguais a 32.5.
 
 max: O valor máximo na coluna. max é 35.0, indicando que a maior idade na coluna é 35.0.
+
+
+
+## Biography
+
+- "Introduction to Machine Learning with Python" por Andreas C. Müller e Sarah Guido
